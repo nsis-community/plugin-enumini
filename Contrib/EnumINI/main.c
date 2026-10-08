@@ -1,6 +1,6 @@
 #define WIN32_LEAN_AND_MEAN
 #include <windows.h>
-#include "../ExDll/exdll.h"
+#include "exdll.h"
 
 #define NSIS_MAX_STRLEN 1024
 
